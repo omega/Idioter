@@ -5,7 +5,11 @@ use warnings;
 
 use base 'Catalyst::View::TT';
 
-__PACKAGE__->config(TEMPLATE_EXTENSION => '.tt');
+__PACKAGE__->config(
+    TEMPLATE_EXTENSION => '.tt',
+    DEFAULT_ENCODING => 'utf-8',
+    WRAPPER => 'inc/wrap.tt',
+);
 
 =head1 NAME
 

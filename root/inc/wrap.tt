@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="no">
+<head>
+    <title>tullinger.no</title>
+    <link href="[% c.uri_for('/static/css/screen.css') %]" media="screen, projection" rel="stylesheet" type="text/css" />
+    <link href="[% c.uri_for('/static/css/print.css') %]" media="print" rel="stylesheet" type="text/css" />
+    <!--[if lt IE 8]>
+        <link href="[% c.uri_for('/static/css/ie.css') %]" media="screen, projection" rel="stylesheet" type="text/css" />
+    <![endif]-->
+</head>
+<body class="bp">
+    <div class="container showgrid">
+        <div id="header">
+            <h1 id="logo">tullinger.no</h1>
+        </div>
+        [% content %]
+    </div>
+</body>
