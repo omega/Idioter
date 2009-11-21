@@ -1,7 +1,6 @@
 package Idioter;
 
-use strict;
-use warnings;
+use Moose;
 
 use Catalyst::Runtime 5.80;
 
@@ -32,6 +31,10 @@ our $VERSION = '0.01';
 
 __PACKAGE__->config( name => 'Idioter' );
 
+before setup_components => sub {
+    my $c = shift;
+    $c->config->{'Model::DB'}->{connect_info} = $c->config->{schema};
+};
 # Start the application
 __PACKAGE__->setup();
 
