@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta name="keywords" content="folkeaksjon, vaksine, vaksineaksjon, H1N1, Pandemrix, kvikksølv, kreftfremkallende formaldehyd, Giullain–Barre Syndrom, sesonginfluensa, influensavaksinen, influensa, Tamiflu, helsevesenet, helseinstitutt" />
+  <meta name="description" content="En folkeaksjon rundt vaksinen. Ta deg 5 livsviktige minutter for å informere deg selv og spre dette videre." />
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management" />
+  <title>Støtteerklæring rundt Vaksineaksjon.no - Underskriftkampanje</title>
+  <link href="/index.php?option=com_petitions&amp;view=petition&amp;id=5%3Avaksineaksjonen&amp;Itemid=29&amp;format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+  <link href="/index.php?option=com_petitions&amp;view=petition&amp;id=5%3Avaksineaksjonen&amp;Itemid=29&amp;format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+  <link href="/templates/nero/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+  <link rel="stylesheet" href="/components/com_jcomments/tpl/default/style.css?v=10" type="text/css" />
+  <script type="text/javascript" src="/components/com_jcomments/js/jcomments-v2.1.js?v=2"></script>
+  <script type="text/javascript" src="/components/com_jcomments/libraries/joomlatune/ajax.js"></script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" href="http://vaksineaksjon.no/templates/nero/css/template_css.css" type="text/css"/><!--[if lte IE 6]>
+<link rel="stylesheet" href="http://vaksineaksjon.no/templates/nero/css/ie6.css" type="text/css"/><![endif]-->
+
+<link rel="alternate" type="application/rss+xml" title="Vaksineaksjon" href="http://vaksineaksjon.no/index.php?option=com_rss&feed=RSS2.0&no_html=1" />
+</head>
+
+<body class="body_bg">
+<table width="1100" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center"><table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td width="406" align="right" valign="top"><span class="space">&nbsp;</span></td>
+        <td width="137" align="center" valign="top"><span class="txt_block">	<table cellpadding="0" cellspacing="0" class="moduletablenone">
+			<tr>
+			<td>
+				<div class="mod_dwhosonline-summary">
+ <span class="txt_white"><li>89 gjester online</li></span> </ul>
+</div>
+			</td>
+		</tr>
+		</table>
+	</span>        </td>
+<td width="257" align="center" valign="top"><script type="text/javascript">
+var addthis_pub             = 'Vaksineaksjon.no'; 
+var addthis_header_color    = "#FFFFFF";
+var addthis_header_background = "#000000";
+var addthis_logo_background = '#000000';
+var addthis_logo_color      = '#FFFFFF';
+var addthis_brand           = 'Vaksineaksjon.no';
+var addthis_options         = 'facebook, myspace, google, favorites, email, digg, delicious, live, more';
+                            </script>
+                            <a href="http://www.addthis.com/bookmark.php?v=20" onMouseOver="return addthis_open(this, '', '[URL]', '[TITLE]')" onMouseOut="addthis_close()" onClick="return addthis_sendto()"><img src="http://www.vaksineaksjon.no/templates/nero/images/share.png" width="148" height="43" border="0" alt="Share" /></a>
+                            <script type="text/javascript" src="http://s7.addthis.com/js/200/addthis_widget.js"></script></td>
+      </tr>
+      <tr>
+        <td colspan="3" align="center" valign="middle" class="space">	<table cellpadding="0" cellspacing="0" class="moduletable">
+			<tr>
+			<td>
+				<table border="0" cellspacing="10" cellpadding="0" width="850" align="right"><tbody><tr>     <td rowspan="9" width="518"> </td><td><a href="/"><img src="/images/stories/bt_hovedside.png" border="0" width="166" height="33" onmouseover="this.src='images/stories/bt_hovedside_over.png';" onmouseout="this.src='images/stories/bt_hovedside.png';" /></a></td></tr><tr><td><a href="/index.php?option=com_content&amp;view=article&amp;id=20"><img src="/images/stories/bt_aksjon2.png" border="0" width="234" height="29" onmouseover="this.src='images/stories/bt_aksjon2_over.png';" onmouseout="this.src='images/stories/bt_aksjon2.png';" /></a></td></tr><tr>       <td> <a href="/index.php?option=com_petitions&amp;view=petition&amp;id=5&amp;Itemid=29"><img src="/images/stories/kampanje.png" border="0" width="267" height="25" onmouseover="this.src='images/stories/kampanje_over.png';" onmouseout="this.src='images/stories/kampanje.png';" /></a></td></tr><tr><td> <a href="/index.php?option=com_content&amp;view=article&amp;id=45"><img src="/images/stories/bt_report.png" border="0" width="264" height="24" onmouseover="this.src='images/stories/bt_report_over.png';" onmouseout="this.src='images/stories/bt_report.png';" /></a></td></tr><tr><td><a href="/index.php?option=com_content&amp;view=article&amp;id=24&amp;Itemid=28"><img src="/images/stories/bt_spre.png" border="0" width="171" height="36" onmouseover="this.src='images/stories/bt_spre_over.png';" onmouseout="this.src='images/stories/bt_spre.png';" /></a></td></tr><tr><td><a href="/index.php?option=com_content&amp;view=article&amp;id=41&amp;Itemid=32"><img src="/images/stories/bt_fakta.png" border="0" width="267" height="30" onmouseover="this.src='images/stories/bt_fakta_over.png';" onmouseout="this.src='images/stories/bt_fakta.png';" /></a></td></tr><tr><td><a href="/index.php?option=com_content&amp;view=article&amp;id=26&amp;Itemid=31"><img src="/images/stories/bt_presse.png" border="0" width="218" height="36" onmouseover="this.src='images/stories/bt_presse_over.png';" onmouseout="this.src='images/stories/bt_presse.png';" /></a></td></tr><tr>         <td> <a href="/index.php?option=com_hwdvideoshare&amp;Itemid=30"><img src="/images/stories/bt_video.png" border="0" width="221" height="34" onmouseover="this.src='images/stories/bt_video_over.png';" onmouseout="this.src='images/stories/bt_video.png';" /></a></td></tr><tr>           <td> <a href="/index.php?option=com_contact&amp;view=contact&amp;id=1&amp;Itemid=24"><img src="/images/stories/bt_kontakt.png" border="0" width="170" height="33" onmouseover="this.src='images/stories/bt_kontakt_over.png';" onmouseout="this.src='images/stories/bt_kontakt.png';" /></a></td></tr></tbody></table>			</td>
+		</tr>
+		</table>
+		<table cellpadding="0" cellspacing="0" class="moduletable">
+			<tr>
+			<td>
+				<!-- JoomlaStatsActivated -->			</td>
+		</tr>
+		</table>
+	</td>
+        </tr>
+    </table>
+<table width="800" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tr>
+                        <td  align="center" valign="top" ><div id="main_full">
+                <script language="javascript" type="text/javascript">
+function formaffiche(){ 
+document.getElementById("formsign").style.display = "block"; 
+document.getElementById("cache").style.display = "inline"; 
+document.getElementById("voir").style.display = "none"; 
+} 
+
+function formcache(){ 
+document.getElementById("formsign").style.display = "none"; 
+document.getElementById("cache").style.display = "none"; 
+document.getElementById("voir").style.display = "inline"; 
+} // ]] --> 
+</script>
+	<div class="componentheading">
+		Støtteerklæring rundt Vaksineaksjon.no	</div>
+	<span class="small">
+			(1382 signaturer)
+	</span>
+
+<table width="100%" cellpadding="4" cellspacing="0" border="0" align="center" class="contentpane">
+<tr>
+	<td valign="top" class="contentdescription">
+	<!--[if gte mso 9]><xml>  <w:WordDocument>   <w:View>Normal</w:View>   <w:Zoom>0</w:Zoom>   <w:HyphenationZone>21</w:HyphenationZone>   <w:PunctuationKerning/>   <w:ValidateAgainstSchemas/>   <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>   <w:IgnoreMixedContent>false</w:IgnoreMixedContent>   <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>   <w:Compatibility>    <w:BreakWrappedTables/>    <w:SnapToGridInCell/>    <w:WrapTextWithPunct/>    <w:UseAsianBreakRules/>    <w:DontGrowAutofit/>   </w:Compatibility>   <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>  </w:WordDocument> </xml><![endif]--><!--[if gte mso 9]><xml>  <w:LatentStyles DefLockedState="false" LatentStyleCount="156">  </w:LatentStyles> </xml><![endif]--> <!--  /* Style Definitions */  p.MsoNormal, li.MsoNormal, div.MsoNormal 	{mso-style-parent:""; 	margin:0cm; 	margin-bottom:.0001pt; 	mso-pagination:widow-orphan; 	font-size:12.0pt; 	font-family:"Times New Roman"; 	mso-fareast-font-family:"Times New Roman";} @page Section1 	{size:612.0pt 792.0pt; 	margin:70.85pt 70.85pt 70.85pt 70.85pt; 	mso-header-margin:35.4pt; 	mso-footer-margin:35.4pt; 	mso-paper-source:0;} div.Section1 	{page:Section1;} --> <!--[if gte mso 10]> <style>  /* Style Definitions */  table.MsoNormalTable 	{mso-style-name:"Vanlig tabell"; 	mso-tstyle-rowband-size:0; 	mso-tstyle-colband-size:0; 	mso-style-noshow:yes; 	mso-style-parent:""; 	mso-padding-alt:0cm 5.4pt 0cm 5.4pt; 	mso-para-margin:0cm; 	mso-para-margin-bottom:.0001pt; 	mso-pagination:widow-orphan; 	font-size:10.0pt; 	font-family:"Times New Roman"; 	mso-ansi-language:#0400; 	mso-fareast-language:#0400; 	mso-bidi-language:#0400;} </style> <![endif]-->  <p class="MsoNormal"><strong>Ved å signere så støtter du dermed denne erklæringen:</strong></p>      <p class="MsoNormal">Jeg støtter arbeidet som gjøres rundt informasjon vedrørende H1N1 vaksinasjon i Norge. Jeg vil selv ikke ta vaksinen og jeg ønsker å vise mitt standpunkt ved å signere under på vaksineaksjonen. Jeg ønsker IKKE å være en del av en skremselspropaganda FOR vaksinasjon, men søker heller å bidra til et mer nyansert og balansert bilde som oppmuntrer til egen søken etter sannheten rundt dette. </p><p class="MsoNormal"><!--[if gte mso 9]><xml>  <w:WordDocument>   <w:View>Normal</w:View>   <w:Zoom>0</w:Zoom>   <w:HyphenationZone>21</w:HyphenationZone>   <w:PunctuationKerning/>   <w:ValidateAgainstSchemas/>   <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>   <w:IgnoreMixedContent>false</w:IgnoreMixedContent>   <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>   <w:Compatibility>    <w:BreakWrappedTables/>    <w:SnapToGridInCell/>    <w:WrapTextWithPunct/>    <w:UseAsianBreakRules/>    <w:DontGrowAutofit/>   </w:Compatibility>   <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>  </w:WordDocument> </xml><![endif]--><!--[if gte mso 9]><xml>  <w:LatentStyles DefLockedState="false" LatentStyleCount="156">  </w:LatentStyles> </xml><![endif]--> <!--  /* Style Definitions */  p.MsoNormal, li.MsoNormal, div.MsoNormal 	{mso-style-parent:""; 	margin:0cm; 	margin-bottom:.0001pt; 	mso-pagination:widow-orphan; 	font-size:12.0pt; 	font-family:"Times New Roman"; 	mso-fareast-font-family:"Times New Roman";} @page Section1 	{size:595.3pt 841.9pt; 	margin:70.85pt 70.85pt 70.85pt 70.85pt; 	mso-header-margin:35.4pt; 	mso-footer-margin:35.4pt; 	mso-paper-source:0;} div.Section1 	{page:Section1;} --> <!--[if gte mso 10]> <style>  /* Style Definitions */  table.MsoNormalTable 	{mso-style-name:"Vanlig tabell"; 	mso-tstyle-rowband-size:0; 	mso-tstyle-colband-size:0; 	mso-style-noshow:yes; 	mso-style-parent:""; 	mso-padding-alt:0cm 5.4pt 0cm 5.4pt; 	mso-para-margin:0cm; 	mso-para-margin-bottom:.0001pt; 	mso-pagination:widow-orphan; 	font-size:10.0pt; 	font-family:"Times New Roman"; 	mso-ansi-language:#0400; 	mso-fareast-language:#0400; 	mso-bidi-language:#0400;} </style> <![endif]-->  </p>      <p class="MsoNormal">Jeg oppfordrer til en granskingskommite av Folkehelseinstituttets håndtering av saken og ber om at deres regnskap offentliggjøres og grundig revideres for å finne ut eventuelle uheldige relasjoner og lenker disse kan ha eller har som kan påvirke deres handlinger og kurs i forhold til helsespørsmålet. </p><h1>NB! Signer kun 1 gang. Din signatur blir registrert</h1><p>Din signatur ender opp midt i listen og blir derfor vanskelig for deg å se rett etter du har signert. Men din signatur har blitt registrert så vi takker for din støtte. </p>	</td>
+</tr>
+<tr>
+	<td width="60%" colspan="2">
+			<script language="javascript" type="text/javascript">
+<!--
+function submitbutton()
+{
+	// do field validation
+
+	regex =/^[a-zA-Z0-9._-]+@([a-zA-Z0-9.-]+\.)+[a-zA-Z0-9.-]{2,4}$/;
+	regex2 = /^(([\w]+:)?\/\/)?(([\d\w]|%[a-fA-f\d]{2,2})+(:([\d\w]|%[a-fA-f\d]{2,2})+)?@)?([\d\w][-\d\w]{0,253}[\d\w]\.)+[\w]{2,4}(:[\d]+)?(\/([-+_~.\d\w]|%[a-fA-f\d]{2,2})*)*(\?(&?([-+_~.\d\w]|%[a-fA-f\d]{2,2})=?)*)?(#([-+_~.\d\w]|%[a-fA-f\d]{2,2})*)?$/; 
+	if (document.getElementById('surname').value == ""){
+		alert( "Vennligst fyll inn Etternavn." );
+		return false;
+	} else if (document.getElementById('name').value == ""){
+		alert( "Vennligst fyll inn Fornavn." );
+		return false;
+	} else if(document.getElementById('mail').value == "" ) {
+		alert( "Vennligst fyll inn E-post." );
+		return false;
+	} else if(!regex.test(document.getElementById('mail').value)) {
+		alert( "Vennligst fyll inn en gyldig e-post." );
+		return false;
+		
+		
+	} else if (document.getElementById('ck_captcha_code').value == ""){
+		alert( "You must have a code captcha" );
+		
+	return false;
+	} else {
+		//submitform( pressbutton );
+		//document.petitionForm.action = 'index.php';
+		document.petitionForm.submit();
+	}
+}
+
+// -->
+/*
+function submitbutton( pressbutton ) {
+	var form = document.petitionForm;
+	var r = new RegExp("[\<|\>|\"|\'|\%|\;|\(|\)|\&|\+|\-]", "i");
+
+	if (pressbutton == 'cancel') {
+		form.task.value = 'cancel';
+		form.submit();
+		return;
+	}
+
+	// do field validation
+	if (form.name2.value == "") {
+		alert( "Veuillez saisir votre nom !" );
+	} else if (form.email.value == "") {
+		alert( "Veuillez saisir une adresse e-mail valide !" );
+	} else if (((form.password.value != "") || (form.password2.value != "")) && (form.password.value != form.password2.value)){
+		alert( "Les mots de passe saisis ne correspondent pas, merci de r�ssayer." );
+	} else if (r.exec(form.password.value)) {
+		alert( "Merci de saisir un Mot de passe valide.  Pas d\'espace, avec au moins 4 caract�res et il doit contenir <strong>uniquement</strong> des lettres et nombres" );
+	} else {
+		form.submit();
+	}
+}*/
+
+</script>
+<script type="text/javascript">
+function reloadCAPTCHA() {
+var a= Math.floor(Math.random()*1000);
+document.getElementById('code').src='index.php?option=com_petitions&task=captcha&reload='+a;
+}
+</script>
+<script language="Javascript"> 
+<!--// [CDATA[ 
+//	Mots interdits. (ne tient pas compte de la casse : 'WaGoN' sera d�tect� comme 'wagon' )
+var mots_interdits = new Array('admin','moder','manag');
+
+//	Si la variable suivante est � true, les mots interdits sont remplac�s par des �toiles.
+//	Sinon, il sont effac�s.
+var RemplacementEtoiles = true;
+
+//	Nombre de caract�res maximum du textarea
+//var Nombre_Caracteres_Maximum = ;
+var Nombre_Caracteres_Maximum = 200;
+//	Nombre de caract�res minimimal � partir duquel il n'y a plus de doute :
+//	Le mot qui est scann� est bien un mot interdit.
+//	Valeur par d�faut : 4
+//	EXEMPLE :
+//		Mettez le mot 'con' dans le tableau des mots interdits.
+//		Tapez le mot conSpiration.
+//		Mettez le curseur du textarea juste avant le S.
+//		Tapez un espace. ===> le mot 'con' est remplac�.
+//		Si vous mettez la variable suivante � 3, et que vous recommencez l'op�ration, vous ne pourrez pas taper le mot conspiration.
+var Constante_Doute = 4;
+
+var StrLen;
+var Contenu;
+
+Constante_Doute--;
+
+function Etoiles(nb)	{
+	v = '';
+	j=0;
+	while(j<nb)	{
+		v += '*';
+		j++;
+	}
+	if(!RemplacementEtoiles) v = '';
+	return v;
+}
+
+function ReInit(valeur, nb, bool)	{
+	if(bool == undefined)	bool = false;
+	v = Etoiles(nb);
+	espace = (RemplacementEtoiles) ? ' ' : '';
+	Contenu = (! bool ) ? (valeur + v) : (v + espace + valeur);
+	StrLen = Contenu.length;
+}
+
+function Compter(Target, compteur) {
+	ReInit(Target.value, -1);
+	for(i=0; i<mots_interdits.length; i++)	{
+		reg = new RegExp(' '+mots_interdits[i]+' ', 'gi');
+		v = ' '+Etoiles(mots_interdits[i].length)+' ';
+		
+		if((!RemplacementEtoiles)&&(i==0)) v += ' ';
+		ReInit(Contenu.replace(reg, v), -1);
+		
+		if(Contenu.substring(0, mots_interdits[i].length+1).toLowerCase() == mots_interdits[i].toLowerCase()+' ')
+			ReInit(Contenu.substring(mots_interdits[i].length+1, StrLen), mots_interdits[i].length, true);
+		
+		if((Contenu.substring(StrLen-mots_interdits[i].length, StrLen).toLowerCase() == mots_interdits[i].toLowerCase()) && (mots_interdits[i].length>Constante_Doute))
+			ReInit(Contenu.substring(0, StrLen-mots_interdits[i].length), mots_interdits[i].length);
+		/*
+			script par SirJojO ===> forums http://www.editeurjavascript.com/
+		*/
+	}
+	if (StrLen > Nombre_Caracteres_Maximum ) {
+		Erreur = false;
+		for(i=0; i<mots_interdits.length; i++)	{
+			if(Contenu.substring(StrLen-mots_interdits[i].length, StrLen).toLowerCase() == mots_interdits[i].toLowerCase())	{
+				ReInit(Contenu.substring(0, StrLen-mots_interdits[i].length), mots_interdits[i].length, true);
+				Erreur = true;
+			}
+		}
+		if(!Erreur)	ReInit(Contenu.substring(0,Nombre_Caracteres_Maximum), -1);
+	}
+	Target.value = Contenu;
+	compteur.value = Nombre_Caracteres_Maximum-StrLen;
+}
+// ]] --> 
+</script>
+<form action="http://vaksineaksjon.no/index.php?option=com_petitions&view=petition&id=5&Itemid=29&limitstart=0" method="post" name="petitionForm" id="petitionForm" >
+<div class="componentheading">
+	Signer Underskriftkampanjen</div>
+<table cellpadding="4" cellspacing="1" border="0" width="100%">
+<tr>
+	<td width="16%">
+		<label for="petitiontitle">
+			Jeg er :		</label>	</td>
+	<td width="84%">
+		<select style="width:150px;" class="inputbox" size="1" id="petitiontitle" name="title" value="" />
+		<option value="">---- velg ----</option>
+		<option >Kvinne</option>
+		<option >Mann</option>	</td>
+</tr>
+<tr>
+	<td width="16%">
+		<label for="petitionsurname">
+			Etternavn * :		</label>	</td>
+	<td width="84%">
+		<input class="inputbox required"  type="text" id="surname" name="surname" size="50" maxlength="250" value="" />	</td>
+</tr>
+<tr>
+	<td width="16%">
+		<label for="petitionname">
+			Fornavn * :		</label>	</td>
+	<td width="84%">
+		<input class="inputbox" type="text" id="name" name="name" size="50" maxlength="250" value="" />	</td>
+</tr>	
+<tr>
+	<td width="16%">
+		<label for="petitionorganisation">
+			Selskap/Org. :		</label>	</td>
+	<td width="84%">
+		<input class="inputbox" type="text" id="petitionorganisation" name="organisation" size="50" maxlength="250" value="" />	</td>
+</tr>
+<tr>
+	<td width="16%">
+		<label for="petitionage">
+			Alder :		</label>	</td>
+	<td width="84%">
+		<select style="width:60px;" class="inputbox" size="1" id="petitionage" name="age" value="" />
+		<option value="">-----</option>
+		<option>- 18</option>
+		<option>18-29</option>
+		<option>30-39</option>
+		<option>40-49</option>
+		<option>50-59</option>
+		<option>+ 59</option>	
+    </td>
+</tr>
+<tr>
+	<td width="16%">
+		<label for="petitionlocalisation">
+			Adresse :		</label>	</td>
+	<td width="84%">
+		<input class="inputbox" type="text" id="petitionlocalisation" name="localisation" size="50" maxlength="100" value="" />	</td>
+</tr>	
+<tr>
+	<td width="16%">
+		<label for="petitionlocalisation2">
+			Postnr. :		</label>	</td>
+	<td width="84%">
+		<input class="inputbox" type="text" id="petitionlocalisation2" name="localisation2" size="50" maxlength="15" value="" />	</td>
+</tr>
+<tr>
+	<td width="16%">
+		<label for="petitionlocalisation3">
+			By :		</label>	</td>
+	<td width="84%">
+		<input class="inputbox" type="text" id="petitionlocalisation3" name="localisation3" size="50" maxlength="100" value="" />	</td>
+</tr>
+<tr>
+	<td width="16%">
+		<label for="petitionlocalisation4">
+			Land :		</label>	</td>
+	<td width="84%">
+	<select style="width:330px;" size="1" id="petitionlocalisation4" name="localisation4" value="" />
+	<option value="">-----------  Velg land  -----------
+<option value=dk>Denmark
+<option value=no>Norge
+<option value=sm>Sverige
+
+	</td>
+</tr>
+<tr>
+	<td valign="top">
+		<label for="petitionmail">
+			E-post * :		</label>	</td>
+	<td>
+		<input class="inputbox required validate-email" type="text" id="mail" name="mail" value="" size="50" maxlength="100" />
+	  <label for="petitionedit"></label>	</td>
+</tr>
+<tr>
+	<td valign="top">
+		<label for="petitioncomment">
+			Kommentar :		</label>	</td>
+	<td>
+		<textarea class="inputbox" cols="30" rows="6" id="petitioncomment" name="comment" style="width:330px" onkeyup="Compter(this, this.form.CharRestant);"></textarea><br>Antall tegn igjen: <input type='text' name='CharRestant' size='2' disabled='disabled'></td>
+</tr>
+<tr>
+  <td align="left" height="40">&nbsp;<span class="ck_mandatory ckhidden">Kode</span> * :
+</td>
+  <td align="left" height="40"><img id="code" src="/index.php?option=com_petitions&task=captcha" align="absmiddle" />
+    <a href="javascript:reloadCAPTCHA();"><img  valign='middle' src='components/com_petitions/images/reload.gif' title='Recharger le code' alt='Recharger le code' border='0'></a>
+	<input type="text" id="ck_captcha_code" name="ck_captcha_code" size="15" maxlength="8" />
+	</td>
+</tr>    
+
+	<td colspan="2" height="40">
+		Felt merket med stjerne (*) skal fylles ut.</tr>
+</table>
+
+<input type="hidden" name="catid" value="5" />
+		<input type="hidden" name="published" value="1" />
+		<input type="hidden" name="ip" value="84.215.85.230" />
+	<input type="hidden" name="option" value="com_petitions" />
+	<input type="hidden" name="task" value="save" />
+	<input type="hidden" name="controller" value="petition" />
+	
+	<input type="hidden" name="e389f90f01feeb9026e80a6d68489757" value="1" />
+<div>
+	<button class="button validate" onclick="return submitbutton();" >Signer</button>
+	<button class="button validate" type="reset">Reset</button>
+</div>
+	
+</form>		</td>
+</tr>
+<tr>
+	<td width="60%" colspan="2">
+			<script language="javascript" type="text/javascript">
+	function tableOrdering( order, dir, task ) {
+	var form = document.adminForm;
+
+	form.filter_order.value 	= order;
+	form.filter_order_Dir.value	= dir;
+	document.adminForm.submit( task );
+}
+</script>
+<script type="text/javascript" src="/includes/js/overlib_mini.js"></script>
+<form action="http://vaksineaksjon.no/index.php?option=com_petitions&view=petition&id=5&Itemid=29&limitstart=0" method="post" name="adminForm">
+<table width="500" border="0" align="left" cellpadding="0" cellspacing="0"><tr><td align="right" colspan="3"><table width="500" border="0" align="left" cellpadding="0" cellspacing="0">
+  <tr align="right">
+    <td colspan="3">Vis #&nbsp;<select name="limit" id="limit" class="inputbox" size="1" onchange="this.form.submit()"><option value="5" >5</option><option value="10" >10</option><option value="15" >15</option><option value="20"  selected="selected">20</option><option value="25" >25</option><option value="30" >30</option><option value="50" >50</option><option value="100" >100</option><option value="0" >Alle</option></select>    </td>
+  </tr>
+    <tr>
+    <td width="17" align="left" class="sectiontableheader" style="text-align:left;"># </td>
+        <td width="94" height="20" align="left" class="sectiontableheader"><a href="javascript:tableOrdering('surname','desc','');" title="Klikk for sortering fra denne kollonnen.">Etternavn Fornavn</a></td>
+            <td width="95" height="20" align="left" class="sectiontableheader"><a href="javascript:tableOrdering('localisation3','desc','');" title="Klikk for sortering fra denne kollonnen.">By</a></td>
+          </tr>
+      <tr class="sectiontableentry1">
+    <td height="20" align="left">1 </td>
+            <td align="left">Carlsen Birgitte </td>
+            <td align="left">TØNSBERG </td>
+      </tr>
+    <tr class="sectiontableentry2">
+    <td height="20" align="left">2 </td>
+            <td align="left">Ravndal Camilla </td>
+            <td align="left">Froland </td>
+      </tr>
+    <tr class="sectiontableentry1">
+    <td height="20" align="left">3 </td>
+            <td align="left">Ovenstad Marius </td>
+            <td align="left">Lierskogen </td>
+      </tr>
+    <tr class="sectiontableentry2">
+    <td height="20" align="left">4 </td>
+            <td align="left">Holm-Johansen Jon-Eirik </td>
+            <td align="left">Loveland, CO USA </td>
+      </tr>
+    <tr class="sectiontableentry1">
+    <td height="20" align="left">5 </td>
+            <td align="left">Tangen Silje </td>
+            <td align="left">GRAN </td>
+      </tr>
+    <tr class="sectiontableentry2">
+    <td height="20" align="left">6 </td>
+            <td align="left">Tangen Gro </td>
+            <td align="left">Kolbu </td>
+      </tr>
+    <tr class="sectiontableentry1">
+    <td height="20" align="left">7 </td>
+            <td align="left">Fladby Ruth </td>
+            <td align="left"> </td>
+      </tr>
+    <tr class="sectiontableentry2">
+    <td height="20" align="left">8 </td>
+            <td align="left">Schumacher Rolf Henrik </td>
+            <td align="left"> </td>
+      </tr>
+    <tr class="sectiontableentry1">
+    <td height="20" align="left">9 </td>
+            <td align="left">Høitomt Bjørnsen Jane </td>
+            <td align="left">Orre </td>
+      </tr>
+    <tr class="sectiontableentry2">
+    <td height="20" align="left">10 </td>
+            <td align="left">Selnes Simon Alexander </td>
+            <td align="left"> </td>
+      </tr>
+    <tr class="sectiontableentry1">
+    <td height="20" align="left">11 </td>
+            <td align="left">Sundseth Turid </td>
+            <td align="left">Trondheim </td>
+      </tr>
+    <tr class="sectiontableentry2">
+    <td height="20" align="left">12 </td>
+            <td align="left">Bowyer Pete </td>
+            <td align="left">Sala </td>
+      </tr>
+    <tr class="sectiontableentry1">
+    <td height="20" align="left">13 </td>
+            <td align="left">Gjendem Stig </td>
+            <td align="left">Skåla Molde </td>
+      </tr>
+    <tr class="sectiontableentry2">
+    <td height="20" align="left">14 </td>
+            <td align="left">Blikø eva </td>
+            <td align="left">trondheim </td>
+      </tr>
+    <tr class="sectiontableentry1">
+    <td height="20" align="left">15 </td>
+            <td align="left">Gjendem Stig </td>
+            <td align="left">Skåla-Molde </td>
+      </tr>
+    <tr class="sectiontableentry2">
+    <td height="20" align="left">16 </td>
+            <td align="left">Martinsen Mona </td>
+            <td align="left"> </td>
+      </tr>
+    <tr class="sectiontableentry1">
+    <td height="20" align="left">17 </td>
+            <td align="left">Gerhard Vibeke </td>
+            <td align="left">Førresfjorden </td>
+      </tr>
+    <tr class="sectiontableentry2">
+    <td height="20" align="left">18 </td>
+            <td align="left">Myhren Randi </td>
+            <td align="left"> </td>
+      </tr>
+    <tr class="sectiontableentry1">
+    <td height="20" align="left">19 </td>
+            <td align="left">Sæterdalen Arild </td>
+            <td align="left">Moss </td>
+      </tr>
+    <tr class="sectiontableentry2">
+    <td height="20" align="left">20 </td>
+            <td align="left">Haugrud Berit </td>
+            <td align="left">Trondheim </td>
+      </tr>
+    <tr align="right">
+    <td colspan="3" class="sectiontablefooter">&lt;&lt; <span class="pagenav">Start</span> &lt; <span class="pagenav">Forrige</span> <span class="pagenav">1</span> <a title="2" href="/index.php?option=com_petitions&amp;view=petition&amp;id=5&amp;Itemid=29&amp;limitstart=20" class="pagenav">2</a> <a title="3" href="/index.php?option=com_petitions&amp;view=petition&amp;id=5&amp;Itemid=29&amp;limitstart=40" class="pagenav">3</a> <a title="4" href="/index.php?option=com_petitions&amp;view=petition&amp;id=5&amp;Itemid=29&amp;limitstart=60" class="pagenav">4</a> <a title="5" href="/index.php?option=com_petitions&amp;view=petition&amp;id=5&amp;Itemid=29&amp;limitstart=80" class="pagenav">5</a> <a title="6" href="/index.php?option=com_petitions&amp;view=petition&amp;id=5&amp;Itemid=29&amp;limitstart=100" class="pagenav">6</a> <a title="7" href="/index.php?option=com_petitions&amp;view=petition&amp;id=5&amp;Itemid=29&amp;limitstart=120" class="pagenav">7</a> <a title="8" href="/index.php?option=com_petitions&amp;view=petition&amp;id=5&amp;Itemid=29&amp;limitstart=140" class="pagenav">8</a> <a title="9" href="/index.php?option=com_petitions&amp;view=petition&amp;id=5&amp;Itemid=29&amp;limitstart=160" class="pagenav">9</a> <a title="10" href="/index.php?option=com_petitions&amp;view=petition&amp;id=5&amp;Itemid=29&amp;limitstart=180" class="pagenav">10</a> <a title="Neste" href="/index.php?option=com_petitions&amp;view=petition&amp;id=5&amp;Itemid=29&amp;limitstart=20" class="pagenav">Neste</a> &gt; <a title="Siste" href="/index.php?option=com_petitions&amp;view=petition&amp;id=5&amp;Itemid=29&amp;limitstart=1380" class="pagenav">Siste</a> &gt;&gt; </td>
+  </tr>
+  <tr>
+    <td colspan="3" align="right" class="pagecounter">Side 1 av 70 </td>
+  </tr>
+</table></td>
+</tr>
+</table>
+<input type="hidden" name="filter_order" value="ordering" />
+<input type="hidden" name="filter_order_Dir" value="" />
+</form>			
+	</td>
+</tr>
+
+</table>		<p  align="center">
+			<span style="font-size:x-small;">
+			</span>
+		</p>
+	            </div></td>
+                      </tr>
+        </table>
+      <table width="882" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tr>
+            <td align="center" valign="top">&nbsp;</td>
+        </tr>
+          <tr>
+            <td align="center" valign="top"><a href="http://www.catanodesign.com" target="_blank">Designet av Catano Designstudio</a></td>
+        </tr>
+    </table></td>
+  </tr>
+</table>
+<script type="text/javascript">
+
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+</script>
+
+<script type="text/javascript">
+
+try {
+
+var pageTracker = _gat._getTracker("UA-11621120-1");
+
+pageTracker._trackPageview();
+
+} catch(err) {}</script>
+</body>
+</html>
