@@ -1,7 +1,7 @@
 #!/usr/bin/perl -w
 
 use strict;
-use Test::More tests => 6;
+use Test::More tests => 9;
 use Idioter::Scraper::Command::VaksineAksjonen;
 use Test::MockObject;
 use t::Test;
@@ -36,8 +36,12 @@ $scraper->update_database($res);
 {
     my $i = $S->resultset('Idiot')->find({name => 'Birgitte Carlsen'});
     is($i->name, $res->{idiots}->[0]);
+    is($i->activites->count(), 1);
+    
+    is($i->activites->first->name, 'vaksineaksjonen.no - opprop');
 }
 {
     my $i = $S->resultset('Idiot')->find({name => 'Bjørnsen Jane Høitomt'});
     is($i->name, $res->{idiots}->[8]);
+    is($i->activites->count(), 1);
 }

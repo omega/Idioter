@@ -30,4 +30,5 @@ has '+url' => (
     default => 'http://vaksineaksjon.no/index.php?option=com_petitions&view=petition&id=5&Itemid=29&limitstart=0&limit=0'
 );
 
+has '+activity' => (default => 'vaksineaksjonen.no - opprop');
 1;

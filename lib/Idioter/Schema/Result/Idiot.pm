@@ -14,6 +14,15 @@ __PACKAGE__->set_primary_key('id');
 __PACKAGE__->utf8_columns(qw/name/);
 
 __PACKAGE__->has_many('_idiot_activities' => 'Idioter::Schema::Result::IdiotActivity', 'idiot');
-__PACKAGE__->many_to_many('activites' => '_idiot_activites', 'activity');
+__PACKAGE__->many_to_many('activites' => '_idiot_activities', 'activity');
 
+sub has_activity {
+    my ($self, $act) = @_;
+    
+    if ($self->_idiot_activities->find({ activity => $act->id, idiot => $self->id})) {
+        return 1;
+    } else {
+        return 0;
+    }
+}
 1;
